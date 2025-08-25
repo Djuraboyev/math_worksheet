@@ -1,34 +1,36 @@
-![✏️ Math Worksheet App
+# 📝 Math Worksheet App
 
 An interactive math quiz app built with React. It helps students practice rounding numbers to the nearest 10 using multiple-choice questions.
 
-🧠 Features
+---
 
-12 unique rounding questions
+## 🚀 Features
 
-3 multiple-choice options per question
+- 12 unique rounding questions
+- 3 multiple-choice options per question
+- Real-time score calculation
+- Name input before starting
+- Reset button to retake the quiz
+- Responsive design for all screen sizes
 
-Real-time score calculation
+---
 
-Name input before starting
+## 📸 Screenshot
 
-Reset button to retake the quiz
+![App Screenshot](image.png) <!-- Make sure image.png is in your project root -->
 
-Responsive design for all screen sizes](image.png)
-🛠️ Built With
+---
 
-React
+## 🛠️ Built With
 
-JavaScript (ES6+)
+- React
+- JavaScript
+- HTML & CSS
 
-HTML & CSS
+---
 
-📄 License
+## 📦 Getting Started
 
-This project is licensed for educational use.
-Questions and idea inspired by: mathinenglish.com
-
-🙋‍♂️ Author
-
-Mukhammadrizo Juraboyev
-GitHub: @Djuraboyev
+### Install dependencies
+```bash
+npm install
