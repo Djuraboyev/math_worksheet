@@ -17,7 +17,7 @@ An interactive math quiz app built with React. It helps students practice roundi
 
 ## 📸 Screenshot
 
-![App Screenshot](image.png) <!-- Make sure image.png is in your project root -->
+![App Screenshot]("C:\Users\mukha\OneDrive\Изображения\Screenshots\Screenshot 2025-08-25 122035.png") <!-- Make sure image.png is in your project root -->
 
 ---
 
